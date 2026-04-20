@@ -1,6 +1,6 @@
 /******************************************************************************
  * Project      : J4G
- * File         : tx_v7_2
+ * File         : tx.cpp
  * Description  : Handles sensor data acquisition and wireless transmission to receiver node
  *
  * Hardware     : j4g1.0 PCB
