@@ -1,6 +1,6 @@
 /******************************************************************************
  * Project      : J4G
- * File         : rx_v4_1
+ * File         : rx.ino
  * Description  : Receives wireless data and triggers outputs based on configuration
  *
  * Hardware     : any ESP32-C3 board (e.g. XIAO ESP32C3 or ESP32-C3 Dev Board) 
