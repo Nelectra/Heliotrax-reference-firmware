@@ -8,8 +8,8 @@
  * Author       : Nelectra s.r.o.
  * Contact      : info@nelectra.eu
  *
- * Version      : v4.1
- * Date         : 2026-04-18
+ * Version      : v1.0.0
+ * Date         : 2026-04-20
  *
  * ---------------------------------------------------------------------------
  * Purpose:
