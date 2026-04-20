@@ -43,6 +43,7 @@ More information:
 https://heliotrax.io
 
  transmitter - Heliotrax HW (j4g1.0 PCB and j4g_24v PCB required)
+ 
  receiver - any ESP32-C3 board (e.g. XIAO ESP32C3 or ESP32-C3 Dev Board) 
 
 ## Software Approach
