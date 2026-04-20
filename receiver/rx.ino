@@ -26,11 +26,6 @@
  * License:
  * MIT
  *
- * ---------------------------------------------------------------------------
- * Change Log:
- *  2026-04-02  PSe  - Initial version
- *  2026-04-18  PSe  - Multi-Sender, Message Types, Print Debug Information
- *
  *****************************************************************************/
 
 #include <WiFi.h>
