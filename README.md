@@ -13,8 +13,8 @@ This is NOT production-ready software.
 Customers are expected to develop their own applications.
 
 ## Structure
-- /transmitter – sends data
-- /receiver – receives data
+- /transmitter – sends data to receiver - Heliotrax HW (j4g1.0 PCB and j4g_24v PCB required)
+- /receiver – collects data from nodes - any ESP32-C3 board (e.g. XIAO ESP32C3 or ESP32-C3 Dev Board) 
 
 ## Getting Started
 1. Install Arduino IDE
